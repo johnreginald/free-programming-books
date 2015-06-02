@@ -7,6 +7,7 @@
     * [Méthodes de développment](#méthodes-de-développement)
     * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
+* [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [Caml](#caml)
@@ -18,11 +19,14 @@
 * [Java](#java)
 * [Javascript](#javascript)
 * [jQuery](#jquery)
-* [LaTeX](#latex)
+* [(La)TeX et associés](#latex-et-associés)
+    * [LaTeX](#latex)
     * [Asymptote](#asymptote)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
+    * [TeX](#tex)
 * [Lisp](#lisp)
+* [Lua](#lua)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -32,7 +36,6 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
-* [TeX](#tex)
 * [Vim](#vim)
 
 
@@ -72,6 +75,10 @@
 * [Compilation. Théorie des langages](http://www.lisyc.univ-brest.fr/pages_perso/leparc/Etud/Master/Compil/Doc/CoursCompilation.pdf) par Université de Bretagne Occidentale
 
 
+### Arduino
+* [Arduino : Premiers pas en informatique embarquée](http://eskimon.fr/ebook-tutoriel-arduino) - Eskimon et olyte
+
+
 ### Assembleur
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 
@@ -87,7 +94,6 @@
 ### C / C++
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
-* [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
 
 
 ### Coq
@@ -105,7 +111,6 @@
 
 
 ### Java
-* [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
@@ -119,39 +124,44 @@
 
 
 ### Haskell
-* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) par Paul Hudak, John Peterson et Joseph Fasel
+* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
 
+### (La)TeX et associés
 
-### LaTeX
+#### LaTeX
 * [Détecter et résoudre
 les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) par Arnaud Gazagnes
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) par Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) par Maïeul Rouquette
 
-Voir aussi [TeX](#tex)
-
-
 #### Asymptote
 * [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf), par Christophe Grospellier
 
-
 #### Metapost
-* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
 * [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf), par John D. Hobby
-
+* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
 
 #### PGF/TikZ
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/), par Gérard Tisseau et Jacques Duma
 
+#### TeX
+
+* [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
 
 ### Lisp
 * [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 
+###Lua
+
+* [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
+* [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/), par Claude Urban
+
 ### Meteor
 * [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/), par Maxime Quandalle
+* [Discover Meteor](http://fr.discovermeteor.com/), par Tom Coleman et Sacha Greif
 
 ### Perl
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier
@@ -166,9 +176,9 @@ Voir aussi [TeX](#tex)
 
 ### Python
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) par Gerard Swinnen
-* [Dropbox a des fuites !Un aperçu de la rétro-ingénierie des programmes Python](http://progdupeu.pl/articles/34/dropbox-a-des-fuites)
+* [Dropbox a des fuites ! Un aperçu de la rétro-ingénierie des programmes Python](http://pdp.microjoe.org/articles/34/dropbox-a-des-fuites)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) par Guido Van Rossum
-
+* [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) par Bob Cordeau et Laurent Pointal
 
 ### R
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) par Vincent Goulet
@@ -193,13 +203,6 @@ Voir aussi [TeX](#tex)
 
 ### SPIP
 * [Programmer avec SPIP](http://programmer.spip.net/), par Matthieu Marcimat et collectif SPIP
-
-
-### TeX
-* [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
-
-Voir aussi [LaTeX](#latex)
-
 
 ### Vim
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)

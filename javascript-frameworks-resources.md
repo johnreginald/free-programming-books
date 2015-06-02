@@ -19,6 +19,7 @@
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [Angular Basics](http://www.angularjsbook.com/)
 
 ## Backbone.js
 * [A Complete guide for learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
@@ -32,6 +33,10 @@
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [Hello Backbone - Hello world examples of increasing complexity](http://arturadib.com/hello-backbonejs/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
+
+
+## Booty5.js
+* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
 
 
 ## D3.js
@@ -52,6 +57,7 @@
 * [EmberFlare](https://emberflare.com/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com/)
+* [DockYard Ember.js Style Guide](https://github.com/dockyard/styleguides/blob/master/ember.md)
 
 
 ## Express.js
@@ -87,3 +93,15 @@
 ## Meteor
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 * [BulletProof Meteor](https://bulletproofmeteor.com/)
+
+## React
+* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial)
+* [React.js tutorial - Creating components](http://ghost.stevenisekimart.in/react-js-tutorial-creating-components)
+* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/tutorial.html)
+* [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+* React Tutorial by Josh Finnie
+    * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
+    * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
+    * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
